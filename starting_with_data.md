@@ -21,7 +21,7 @@ Answer:
 
 First 10 Columns
 
-![](https://raw.githubusercontent.com/joshho77/SQL_Project/main/Images/q1.1.png "The first 10 columns of query")
+![](https://raw.githubusercontent.com/joshho77/SQL_Project/main/Images/q2.1.png "The first 10 columns of query")
 
 Columns - country, city, smallest_order, largest_order
 
@@ -46,7 +46,7 @@ ORDER BY country, channelgrouping;
 ```
 Answer:
 
-![](images/q2.2.png "The first 10 columns of query")
+![](https://raw.githubusercontent.com/joshho77/SQL_Project/main/Images/q2.2.png "The first 10 columns of query")
 
 Columns - country, search_method, page_views
 
@@ -68,12 +68,11 @@ ORDER BY avg_sentiment_score DESC, avg_sentiment_magnitude DESC;
 ```
 Answer:
 
-![](images/q2.3.png "The first 10 columns of query")
+![](https://raw.githubusercontent.com/joshho77/SQL_Project/main/Images/q2.3.png "The first 10 columns of query")
 
 Columns - name, avg_sentiment_score, avg_sentiment_magnitude
 
 Rows - 237
 
-Product with Highest Score and Magnitude - Mood Ninja Window Decal (0.9, 1.4)
 
 
