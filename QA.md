@@ -1,5 +1,4 @@
-**Josh Ho - SQL Project | QA Process**
-***
+# Josh Ho - SQL Project | QA Process
 
 What are your risk areas? Identify and describe them.
 1. One risk is the amount of rows imported into the Postgres database not matching up with the number of rows form the original file, when it should. For example when opening the analytics.csv file using Excel, the application has a cut off how much data to show, as to not crash the application. This results in only 1048576 rows being shown, when in fact the file has 4301122 total rows. Thus, in order to not have any confusion, it is best to count the rows and confirm the total amount by comparing them.

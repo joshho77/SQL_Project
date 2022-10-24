@@ -1,5 +1,4 @@
-**Josh Ho - SQL Project | Starting with Data**
-***
+# Josh Ho - SQL Project | Starting with Data
 
 **Question 1: What is the distribution (minimum and maximum) between products ordered for each country and their city?**
 

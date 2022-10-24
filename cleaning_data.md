@@ -1,5 +1,4 @@
-**Josh Ho - SQL Project | Cleaning Data**
-*** 
+# Josh Ho - SQL Project | Cleaning Data
 **What issues will you address by cleaning the data?**
 
 1. Creating table and column names with effective and concise naming conventions, and selecting appropriate data types.

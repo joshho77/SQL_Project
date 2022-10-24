@@ -1,4 +1,4 @@
-# SQL Project | Transforming and Analyzing Data with PostgreSQL
+# Josh Ho - SQL Project | Transforming and Analyzing Data with PostgreSQL
 
 ## Project Goals
 1. Efficiently and concisely clean and transform raw data for loading into a Postgres database
