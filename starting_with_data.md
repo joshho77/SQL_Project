@@ -21,7 +21,7 @@ Answer:
 
 First 10 Columns
 
-![](images/q2.1.png "The first 10 columns of query")
+![](https://raw.githubusercontent.com/joshho77/SQL_Project/main/Images/q1.1.png "The first 10 columns of query")
 
 Columns - country, city, smallest_order, largest_order
 
