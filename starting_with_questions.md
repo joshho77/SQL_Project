@@ -21,6 +21,9 @@ ORDER BY total_transaction_revenue DESC;
 
 Answer:
 
+First 10 Columns
+
+![](images/q1.1.png "The first 10 columns of query")
 
 Columns - country, city, total_transaction_revenue
 
@@ -48,6 +51,7 @@ ORDER BY a.country;
 
 Answer:
 
+![](images/q1.2.png "The first 10 columns of query")
 
 Columns - country, city, total_ordered
 
@@ -69,6 +73,8 @@ ORDER BY country, city;
 ```
 
 Answer:
+
+![](images/q1.3.png "The first 10 columns of query")
 
 Columns - country, city, product_category
 
@@ -95,6 +101,8 @@ ORDER BY total_orders DESC;
 
 Answer:
 
+![](images/q1.4.png "The first 10 columns of query")
+
 Columns - country, city, product, total_orders
 
 Rows - 7628
@@ -119,6 +127,8 @@ ORDER BY a.country, a.city;
 ```
 
 Answer:
+
+![](images/q1.5.png "The first 10 columns of query")
 
 Columns - country, city, revenue
 

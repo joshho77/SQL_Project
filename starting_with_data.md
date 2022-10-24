@@ -19,6 +19,10 @@ ORDER BY a.country, a.city;
 ```
 Answer: 
 
+First 10 Columns
+
+![](images/q2.1.png "The first 10 columns of query")
+
 Columns - country, city, smallest_order, largest_order
 
 Rows - 366
@@ -42,6 +46,8 @@ ORDER BY country, channelgrouping;
 ```
 Answer:
 
+![](images/q2.2.png "The first 10 columns of query")
+
 Columns - country, search_method, page_views
 
 Rows - 500
@@ -61,6 +67,8 @@ GROUP BY "name"
 ORDER BY avg_sentiment_score DESC, avg_sentiment_magnitude DESC;
 ```
 Answer:
+
+![](images/q2.3.png "The first 10 columns of query")
 
 Columns - name, avg_sentiment_score, avg_sentiment_magnitude
 
